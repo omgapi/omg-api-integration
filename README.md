@@ -134,6 +134,15 @@ The `code` field meaning differs by interface direction — a common source of b
 
 ---
 
+## Contact
+
+For business inquiries and integration support:
+
+- **Telegram**: [@omgapi666](https://t.me/omgapi666)
+- **Official Docs**: https://docs.omgapi.cc
+
+---
+
 ## License
 
 This repository is provided as a reference integration guide. All API specifications belong to the OMG platform. See [LICENSE](./LICENSE) for details.

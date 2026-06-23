@@ -128,3 +128,18 @@ sign = md5( URL参数字符串 + body原始JSON字符串 + 签名密钥key )
 | 货币列表 | https://docs.omgapi.cc/kuai-su-kai-shi/huo-bi-lie-biao.md |
 | 在线调试 | https://docs.omgapi.cc/openapi-jie-kou-zai-xian-tiao-shi/ |
 | 完整 sitemap | https://docs.omgapi.cc/sitemap.md |
+
+---
+
+## 商务联系
+
+如需商务合作或对接技术支持：
+
+- **Telegram**: [@omgapi666](https://t.me/omgapi666)
+- **官方文档**: https://docs.omgapi.cc
+
+---
+
+## License
+
+本仓库作为对接参考指南提供，所有 API 规范归 OMG 平台所有。详见 [LICENSE](./LICENSE)。
